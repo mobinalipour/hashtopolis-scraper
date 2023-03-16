@@ -2,13 +2,18 @@
 a tool for scraping hashtopolis tasks and send log to telegram
 
 
+
 ### how this tool works ?
 this tool will login to your hashtopolis server and gets task names and the progress in % and cracks number and send them to telegram with a bot
+
+
 
 ### prerequisites
 u have to install this libraries :
 `pip install requests`
 `pip install beautifulsoup4`
+
+
 
 ### Usage
 by running the program it will get some information:
